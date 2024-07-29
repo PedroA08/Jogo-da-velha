@@ -1,0 +1,5 @@
+JOGO DA VELHA SIMPLES FEITO POR: PEDROA08!
+
+FAÇA DOWNLOAD DOS ARQUIVOS E EXECUTE O ARQUIVO jogo_da_velha.html para jogar.
+
+Divirta-se!
